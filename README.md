@@ -4,3 +4,5 @@ Extract,Transform and Load Data to ProsgreSQL Database using Pandas
 #### Highlight: 
 * Data cleaning
 * Data Manipultaion
+* Postgres bulk upload
+* Data query
